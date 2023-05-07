@@ -9,6 +9,58 @@ Contributing to pandas
 .. contents:: Table of contents:
    :local:
 
+Frequently Asked Questions (FAQ)
+=============================================
+
+**Is there an expected level of expertise for contributors?**
+
+All contributors are welcome! Pandas is written for Python, so if you are
+unfamiliar with Python take a look at the `Python website <https://www.python.org>`_ and
+the `Python tutorial <https://docs.python.org/3/tutorial/>`_.
+
+**Is there a code of conduct for contributors?**
+
+Yes! Be sure to review the `Contributor Code of Conduct <https://github.com/pandas-dev/.github/blob/master/CODE_OF_CONDUCT.md>`_
+before contributing. 
+
+**What are the available communication channels?**
+
+Please see the :ref:`contributor community <community>` for all communication channels and associated uses.
+
+Most communication happens on the `GitHub "issues" tab <https://github.com/pandas-dev/pandas/issues>`_.
+
+**Who can open issues?**
+
+Any member can open issues to report bugs as well as request features and documentation improvements
+via the `GitHub "issues" tab <https://github.com/pandas-dev/pandas/issues>`_.
+
+Please see the :ref:`contributor community <community>` for additional information and examples. 
+
+**Does this project follow a forking workflow?**
+
+Yes. Contributors fork the repository, make changes and then create a pull request.
+
+The process is further described and walked through in detail on this page, but if you're new to the forking workflow 
+here are a few resources from Github:
+
+* `contributing to projects <https://docs.github.com/en/get-started/quickstart/contributing-to-projects>`_.
+* `forking a repo <https://docs.github.com/en/get-started/quickstart/fork-a-repo>`_.
+* `pull requests from a fork <https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork>`_.
+* `syncing a fork <https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork>`_.
+
+If you're new to contributing to open source software and would like to know more, 
+take a look at the `Github docs <https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github>`_.
+
+**Can I set up a virtual environment in Python to work on pandas?**
+
+Please see the :ref:`guide <contributing_environment>` for a detailed walkthrough in creating a development environment for contributing to pandas. 
+This will create a new environment without affecting other environments and installations. 
+
+If you would like to learn more about Python virtual environments, please see the `Python virtual environment tutorial <https://docs.python.org/3/tutorial/venv.html>`_ as
+well as the `Python virtual environment doc <https://python.readthedocs.io/fr/stable/library/venv.html>`_.
+
+.. _contributing.where_to_start:
+
 Where to start?
 ===============
 
